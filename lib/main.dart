@@ -49,10 +49,10 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   List listnya = [
-    'assets/danautoba.png',
-    'assets/laut.jpeg',
-    'assets/pegunungan.jpeg',
-    'assets/terbenam.jpeg'
+    'assets/candi.png',
+    'assets/col.jpeg',
+    'assets/paris2.jpeg',
+    'assets/pisa.jpeg'
   ];
 
   @override
